@@ -1,0 +1,140 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "04_UART_back",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "04_UART_back",
+                "resourceId": "/04_UART_back"
+            }
+        },
+        {
+            "name": "06_EXTI",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_EXTI",
+                "resourceId": "/06_EXTI"
+            }
+        },
+        {
+            "name": "06_Encoder",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_Encoder",
+                "resourceId": "/06_Encoder"
+            }
+        },
+        {
+            "name": "06_Encode (1)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_Encode",
+                "resourceId": "/06_Encode"
+            }
+        },
+        {
+            "name": "06_Encoder_HSR04_count",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_Encoder_HSR04_count",
+                "resourceId": "/06_Encoder_HSR04_count"
+            }
+        },
+        {
+            "name": "06_HSR04_Juli",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_HSR04_Juli",
+                "resourceId": "/06_HSR04_Juli"
+            }
+        },
+        {
+            "name": "06_Encoder_Speed",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "06_Encoder_Speed",
+                "resourceId": "/06_Encoder_Speed"
+            }
+        },
+        {
+            "name": "07_MPU6050",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "07_MPU6050",
+                "resourceId": "/07_MPU6050"
+            }
+        },
+        {
+            "name": "05_OLED_soft",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "05_OLED_soft",
+                "resourceId": "/05_OLED_soft"
+            }
+        },
+        {
+            "name": "01_LED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "01_LED",
+                "resourceId": "/01_LED"
+            }
+        },
+        {
+            "name": "08_M0_TestPCB1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "08_M0_TestPCB1",
+                "resourceId": "/08_M0_TestPCB1"
+            }
+        },
+        {
+            "name": "09_M0_TestPCB1_ADC",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "09_M0_TestPCB1_ADC",
+                "resourceId": "/09_M0_TestPCB1_ADC"
+            }
+        },
+        {
+            "name": "10-PID",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "10-PID",
+                "resourceId": "/10-PID"
+            }
+        },
+        {
+            "name": "05_OLED_NEW_ShowChinese",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "05_OLED_NEW_ShowChinese",
+                "resourceId": "/05_OLED_NEW_ShowChinese"
+            }
+        },
+        {
+            "name": "05_OLED_NEW_ShowImage",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "05_OLED_NEW_ShowImage",
+                "resourceId": "/05_OLED_NEW_ShowImage"
+            }
+        }
+    ]
+}
